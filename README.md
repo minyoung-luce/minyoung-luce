@@ -8,9 +8,9 @@ computational biology · single-cell genomics · MSci @ UCL
 
 ### currently
 
-- 🧬 reproducing & extending **SCAVENGE**, **seismic/seismicGWAS**, and **scMORE** — building a cell-type-specificity toolkit @ the Castellano Translational Genomics Lab (UCL ICH)
-- 🧠 thinking about how regulatory variant → cell-type specificity links up with haplotype / ARG evolutionary history
-- 📚 finishing my final year @ UCL, MSci Computational Biology (grad. 2027)
+- 🧬 currently deep in single-cell genomics — reproducibility, cell-type specificity, and the gap between them
+- 🧠 curious about the evolutionary history hiding behind GWAS hits
+- 📚 final year @ UCL, MSci Computational Biology (grad. 2027)
 
 ### interests
 
