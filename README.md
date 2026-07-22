@@ -12,16 +12,6 @@ computational biology · single-cell genomics · MSci @ UCL
 - 🧠 curious about the evolutionary history hiding behind GWAS hits
 - 📚 final year @ UCL, MSci Computational Biology (grad. 2027)
 
-### interests
-
-`single-cell genomics` `GWAS fine-mapping` `pangenomics` `transcriptomics` `ML for biology`
-
-### stack
-
-```
-languages   R · Python · Bash · Perl · Java
-tools       GATK · bcftools · DESeq2 · Bioconductor · HPC/SGE
-```
 
 ### outside the terminal
 
@@ -33,6 +23,17 @@ $ samtools flagstat luce.bam
 99.4% properly paired (with coffee)
 0.6% singletons (decaf days)
 ```
+
+### stack
+
+```
+languages   R · Python · Bash · Perl · Java
+tools       GATK · bcftools · DESeq2 · Bioconductor · HPC/SGE
+```
+
+### interests
+
+`single-cell genomics` `GWAS fine-mapping` `pangenomics` `transcriptomics` `ML for biology`
 
 ---
 
