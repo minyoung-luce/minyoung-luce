@@ -25,7 +25,7 @@ tools       GATK · bcftools · DESeq2 · Bioconductor · HPC/SGE
 
 ### outside the terminal
 
-🍰 baking 🏃‍♀️ jogging · ☕️ powered by coffee and tea 🍵
+🍰 baking · 🏃‍♀️ jogging · ☕️ powered by coffee and tea 🍵
 
 ---
 
