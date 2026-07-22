@@ -30,6 +30,6 @@ tools       GATK · bcftools · DESeq2 · Bioconductor · HPC/SGE
 ---
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
-<a href="mailto:YOUR-EMAIL">Email</a>
+<a href="https://www.linkedin.com/in/minyoung-kim71/">LinkedIn</a> ·
+<a href="minyoung.kim071@gmail.com">Email</a>
 </p>
