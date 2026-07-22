@@ -25,7 +25,14 @@ tools       GATK · bcftools · DESeq2 · Bioconductor · HPC/SGE
 
 ### outside the terminal
 
-🍰 baking · 🏃‍♀️ jogging · ☕️ powered by coffee and tea 🍵
+```
+$ samtools flagstat luce.bam
+2027 in total (grad year)
+1 primary bioinformatician
+0 duplicates (every dataset gets reproduced independently)
+99.4% properly paired (with coffee)
+0.6% singletons (decaf days)
+```
 
 ---
 
