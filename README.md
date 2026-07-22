@@ -1,11 +1,14 @@
-<h1 align="left">hi, I'm Minyoung — aka Luce 👋</h1> <p align="left"> computational biology · single-cell genomics · MSci @ UCL &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.linkedin.com/in/minyoung-kim71/">LinkedIn</a> · <a href="mailto:minyoung.kim071@gmail.com">Email</a> </p>
+<h1 align="left">hi, I'm Minyoung — aka Luce 👋</h1>
+
+<p align="left">
+computational biology · single-cell genomics · MSci @ UCL &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.linkedin.com/in/minyoung-kim71/">LinkedIn</a> · <a href="mailto:minyoung.kim071@gmail.com">Email</a>
+</p>
 
 ### currently
 
 - 🧬 deep in single-cell genomics — reproducibility, cell-type specificity, and the gap between them
 - 🧠 curious about the evolutionary history hiding behind GWAS hits
-- 📚 final year @ UCL, MSci Computational Biology (grad. 2027)
-
+- 📚 final year @ UCL, MSci Computational Biology
 
 ### outside the terminal
 
@@ -27,6 +30,6 @@ tools       GATK · bcftools · DESeq2 · Bioconductor · HPC/SGE
 
 ### interests
 
-`single-cell genomics` `GWAS fine-mapping` `pangenomics` `transcriptomics` `ML for biology`
+`GWAS fine-mapping` `pangenomics` `transcriptomics` `ML for biology` `reproducibility`
 
 ---
