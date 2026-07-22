@@ -8,7 +8,7 @@ computational biology · single-cell genomics · MSci @ UCL
 
 ### currently
 
-- 🧬 currently deep in single-cell genomics — reproducibility, cell-type specificity, and the gap between them
+- 🧬 deep in single-cell genomics — reproducibility, cell-type specificity, and the gap between them
 - 🧠 curious about the evolutionary history hiding behind GWAS hits
 - 📚 final year @ UCL, MSci Computational Biology (grad. 2027)
 
