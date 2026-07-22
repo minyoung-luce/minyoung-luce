@@ -1,5 +1,4 @@
-<h1 align="left">hi, I'm Minyoung — aka Luce 👋</h1> <p align="left"> computational biology · single-cell genomics · MSci @ UCL </p> <p align="right"> <a href="https://www.linkedin.com/in/minyoung-kim71/">LinkedIn</a> · <a href="mailto:minyoung.kim071@gmail.com">Email</a> </p>
----
+<h1 align="left">hi, I'm Minyoung — aka Luce 👋</h1> <table width="100%"> <tr> <td align="left"> computational biology · single-cell genomics · MSci @ UCL </td> <td align="right"> <a href="https://www.linkedin.com/in/minyoung-kim71/">LinkedIn</a> · <a href="mailto:minyoung.kim071@gmail.com">Email</a> </td> </tr> </table>
 
 ### currently
 
