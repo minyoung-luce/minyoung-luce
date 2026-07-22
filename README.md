@@ -3,7 +3,6 @@
 <p align="left">
 computational biology · single-cell genomics · MSci @ UCL
 </p>
-
 <p align="right">
 <a href="https://www.linkedin.com/in/minyoung-kim71/">LinkedIn</a> ·
 <a href="mailto:minyoung.kim071@gmail.com">Email</a>
