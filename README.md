@@ -25,7 +25,7 @@ tools       GATK · bcftools · DESeq2 · Bioconductor · HPC/SGE
 
 ### outside the terminal
 
-🧗 bouldering · 🇯🇵 learning Japanese (intermediate) · reading papers I probably shouldn't nitpick as hard as I do
+🍰 baking 🏃‍♀️ jogging · ☕️ powered by coffee and tea 🍵
 
 ---
 
