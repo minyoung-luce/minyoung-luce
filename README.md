@@ -4,6 +4,10 @@
 computational biology · single-cell genomics · MSci @ UCL
 </p>
 
+<p align="right">
+<a href="https://www.linkedin.com/in/minyoung-kim71/">LinkedIn</a> ·
+<a href="mailto:minyoung.kim071@gmail.com">Email</a>
+</p>
 ---
 
 ### currently
@@ -36,8 +40,3 @@ tools       GATK · bcftools · DESeq2 · Bioconductor · HPC/SGE
 `single-cell genomics` `GWAS fine-mapping` `pangenomics` `transcriptomics` `ML for biology`
 
 ---
-
-<p align="left">
-<a href="https://www.linkedin.com/in/minyoung-kim71/">LinkedIn</a> ·
-<a href="mailto:minyoung.kim071@gmail.com">Email</a>
-</p>
